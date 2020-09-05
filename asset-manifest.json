@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/resume-website/static/css/main.e7a5657f.chunk.css",
-    "main.js": "/resume-website/static/js/main.95a98d32.chunk.js",
-    "main.js.map": "/resume-website/static/js/main.95a98d32.chunk.js.map",
+    "main.css": "/resume-website/static/css/main.60e6870b.chunk.css",
+    "main.js": "/resume-website/static/js/main.a2406d2c.chunk.js",
+    "main.js.map": "/resume-website/static/js/main.a2406d2c.chunk.js.map",
     "runtime-main.js": "/resume-website/static/js/runtime-main.0d2b2e5b.js",
     "runtime-main.js.map": "/resume-website/static/js/runtime-main.0d2b2e5b.js.map",
     "static/css/2.1f0aa724.chunk.css": "/resume-website/static/css/2.1f0aa724.chunk.css",
-    "static/js/2.b1ab2e04.chunk.js": "/resume-website/static/js/2.b1ab2e04.chunk.js",
-    "static/js/2.b1ab2e04.chunk.js.map": "/resume-website/static/js/2.b1ab2e04.chunk.js.map",
+    "static/js/2.81b38720.chunk.js": "/resume-website/static/js/2.81b38720.chunk.js",
+    "static/js/2.81b38720.chunk.js.map": "/resume-website/static/js/2.81b38720.chunk.js.map",
     "index.html": "/resume-website/index.html",
-    "precache-manifest.7a41166664320f62361350406c4e3efc.js": "/resume-website/precache-manifest.7a41166664320f62361350406c4e3efc.js",
+    "precache-manifest.426eddf503703d9db424cf589ecf1956.js": "/resume-website/precache-manifest.426eddf503703d9db424cf589ecf1956.js",
     "service-worker.js": "/resume-website/service-worker.js",
     "static/css/2.1f0aa724.chunk.css.map": "/resume-website/static/css/2.1f0aa724.chunk.css.map",
-    "static/css/main.e7a5657f.chunk.css.map": "/resume-website/static/css/main.e7a5657f.chunk.css.map",
-    "static/js/2.b1ab2e04.chunk.js.LICENSE.txt": "/resume-website/static/js/2.b1ab2e04.chunk.js.LICENSE.txt",
+    "static/css/main.60e6870b.chunk.css.map": "/resume-website/static/css/main.60e6870b.chunk.css.map",
+    "static/js/2.81b38720.chunk.js.LICENSE.txt": "/resume-website/static/js/2.81b38720.chunk.js.LICENSE.txt",
     "static/media/Profile.jpg": "/resume-website/static/media/Profile.c254cf61.jpg",
-    "static/media/font-awesome.min.css": "/resume-website/static/media/fontawesome-webfont.fee66e71.woff"
+    "static/media/font-awesome.min.css": "/resume-website/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/profile-pic.jpeg": "/resume-website/static/media/profile-pic.d55b31ed.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.0d2b2e5b.js",
     "static/css/2.1f0aa724.chunk.css",
-    "static/js/2.b1ab2e04.chunk.js",
-    "static/css/main.e7a5657f.chunk.css",
-    "static/js/main.95a98d32.chunk.js"
+    "static/js/2.81b38720.chunk.js",
+    "static/css/main.60e6870b.chunk.css",
+    "static/js/main.a2406d2c.chunk.js"
   ]
 }
