@@ -27,7 +27,7 @@ class Resume extends React.Component {
       <div>
     <div className="ct" id="home">
         <div className="ct" id="about">
-            <div className="ct" id="t3">
+            <div className="ct" id="portfolio">
                 <div className="ct" id="t4">
                     <section>
                         <ul>
@@ -37,7 +37,7 @@ class Resume extends React.Component {
                             <a href="#about">
                                 <i className="icon fa fa-user" id="dos"></i>
                             </a>
-                            <a href="#t3">
+                            <a href="#portfolio">
                                 <li className="icon fa fa-coffee" id="tres"></li>
                             </a>
                             <a href="#t4">
