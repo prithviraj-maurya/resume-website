@@ -32,7 +32,7 @@ section,
     transition: all 1s cubic-bezier(.5, -0.005, 0.2, 1) !important;
     -webkit-transition: all 1s cubic-bezier(.5, -0.005, 0.2, 1) !important;
     color: #fff;
-    background: #374046;
+    background: #222;
     overflow: hidden;
 }
 
@@ -50,7 +50,7 @@ section {
 
 #p2 {
     left: 100%;
-    background: #FF5722;
+    background: #10121b;
 }
 
 #p3 {
@@ -234,4 +234,58 @@ a {
     margin-right: -50%;
     transform: translate(-50%, -50%);
     position: absolute;
+}
+
+.profile-img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    /* transition: transform .4s; */
+}
+
+.name {
+    color: #037fff;
+}
+
+
+/* .profile-pic:hover img {
+    transform: scale(1.8);
+    transform-origin: 50% 50%;
+} */
+
+.social {
+    padding-top: 5px;
+}
+
+i.fa {
+    color: white;
+    padding-right: 8px;
+}
+
+.fa-linkedin:hover {
+    color: #007bff;
+}
+
+.about {
+    margin-top: 80px;
+}
+
+.title {
+    text-align: left;
+}
+
+hr {
+    border-width: 5px;
+    margin: 0px;
+    float: left;
+    background: #037fff;
+}
+
+.hr-light {
+    width: 7%;
+    opacity: 0.5;
+}
+
+.hr-dark {
+    width: 3%;
 }
