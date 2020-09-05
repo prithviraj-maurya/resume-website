@@ -1,5 +1,0 @@
-- Deploy react app: https://github.com/gitname/react-gh-pages
-- Align text to center of screen: https://www.w3.org/Style/Examples/007/center.en.html
-- Starts animation: https://github.com/transitive-bullshit/react-starfield-animation
-- HTML template: https://codepen.io/rupok/pen/PwrmXN
-- Reference resume: http://chester.nuclearthemes.com/about
