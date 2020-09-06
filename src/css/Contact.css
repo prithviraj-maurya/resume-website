@@ -1,0 +1,27 @@
+.contact-info {
+    margin-top: 30px;
+    background: #191d2b;
+    padding: 30px;
+    display: flex;
+}
+
+.contact-info-icon {
+    display: inline-block;
+    height: 70px;
+    width: 70px;
+    flex: 0 0 70px;
+    max-width: 70px;
+    border: 1px solid #2e344e;
+    text-align: center;
+    line-height: 66px;
+    margin-right: 20px;
+}
+
+.contact-info-content {
+    color: #a4acc4;
+    transition: all .4s ease-out;
+}
+
+i.fa {
+    font-size: 30px;
+}

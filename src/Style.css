@@ -64,19 +64,19 @@ ul {
     transform: translateX(-190%);
 }
 
-#t4:target .page#p4 {
+#contact:target .page#p4 {
     transform: translateX(-290%);
 }
 
 #about:target .page#p1,
 #portfolio:target .page#p1,
-#t4:target .page#p1 {
+#contact:target .page#p1 {
     background: black;
 }
 
 #about:target .page#p1 .icon,
 #portfolio:target .page#p1 .icon,
-#t4:target .page#p1 .icon {
+#contact:target .page#p1 .icon {
     -webkit-filter: blur(3px);
     filter: blur(3px);
 }
@@ -97,7 +97,7 @@ ul .icon:hover {
 
 #about:target ul .icon,
 #portfolio:target ul .icon,
-#t4:target ul .icon {
+#contact:target ul .icon {
     transform: scale(.6);
     transition-delay: .25s;
 }
@@ -110,7 +110,7 @@ ul .icon:hover {
     transform: scale(1.2) !important;
 }
 
-#t4:target #cuatro {
+#contact:target #cuatro {
     transform: scale(1.2) !important;
 }
 
@@ -192,7 +192,7 @@ a {
     transition-delay: 1s;
 }
 
-#t4:target .page#p4 .icon {
+#contact:target .page#p4 .icon {
     transform: translateX(0) !important;
     transition-delay: 1s;
 }
@@ -252,6 +252,7 @@ i.fa {
 
 .container {
     margin-top: 80px;
+    margin-left: 50px;
 }
 
 .title {
@@ -282,4 +283,12 @@ hr {
 
 .desc {
     opacity: 0.8;
+}
+
+.p1 .p2 .p3 .p4 {
+    padding-right: 150px;
+}
+
+.contact {
+    width: 70%;
 }

@@ -3,3 +3,4 @@
 - Starts animation: https://github.com/transitive-bullshit/react-starfield-animation
 - HTML template: https://codepen.io/rupok/pen/PwrmXN
 - Reference resume: http://chester.nuclearthemes.com/about
+- React form templates: https://mdbootstrap.com/docs/react/forms/basic/
