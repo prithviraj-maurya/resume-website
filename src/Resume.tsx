@@ -4,6 +4,7 @@ import profile from './static/Profile.jpg';
 import StarfieldAnimation from 'react-starfield-animation';
 
 import AboutMe from './AboutMe';
+import Portfolios from './Portfolios';
 
 class Resume extends React.Component {
 
@@ -35,10 +36,10 @@ class Resume extends React.Component {
                                 <li className="icon fa fa-home" id="uno"></li>
                             </a>
                             <a href="#about">
-                                <i className="icon fa fa-user" id="dos"></i>
+                                <li className="icon fa fa-user" id="dos"></li>
                             </a>
                             <a href="#portfolio">
-                                <li className="icon fa fa-coffee" id="tres"></li>
+                              <li className="icon fa fa-briefcase" id="tres"></li>
                             </a>
                             <a href="#t4">
                                 <li className="icon fa fa-dribbble" id="cuatro"></li>
@@ -75,7 +76,7 @@ class Resume extends React.Component {
                             <AboutMe></AboutMe>
                         </div>
                         <div className="page" id="p3">
-                            <li className="icon fa fa-coffee"><span className="title">Coffee</span></li>
+                            <Portfolios></Portfolios>
                         </div>
                         <div className="page" id="p4">
                             <li className="icon fa fa-dribbble"><span className="title">Dribbble</span></li>

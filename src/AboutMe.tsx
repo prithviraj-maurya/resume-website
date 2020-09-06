@@ -17,7 +17,7 @@ class AboutMe extends React.Component {
                             <p className="desc">I am a Full Stack Developer at Wissen Technology,
                             I also work on AI and ML projects<br/> and I am an active Kaggler.
                             </p>
-                            <p><b>Full Name</b>: Prithviraj Maurya</p>
+                            <p><b>Full Name</b>: Prithviraj Anil Maurya</p>
                             <p><b>Age</b>: 24</p>
                             <p><b>Nationality</b>: Indian</p>
                             <p><b>Languages</b>: English & Hindi</p>

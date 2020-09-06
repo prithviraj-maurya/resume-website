@@ -39,12 +39,12 @@ section {
 
 #p3 {
     left: 200%;
-    background: #593C1F;
+    background: #10121b;
 }
 
 #p4 {
     left: 300%;
-    background: deeppink;
+    background: #10121b;
 }
 
 ul {
@@ -250,7 +250,7 @@ i.fa {
     color: #007bff;
 }
 
-.about {
+.container {
     margin-top: 80px;
 }
 
