@@ -14,8 +14,8 @@ class Cards extends React.Component<project> {
                 <a href="/#" onClick={this.redirect.bind(this)} style={{textDecoration: 'none'}}>
                     <img style={{maxHeight: '100%', maxWidth: '100%'}}
                     src={process.env.PUBLIC_URL + this.props.image} alt={this.props.name} />
-                    <p>{this.props.name}</p>
-                </a> 
+                    <p className="proj-title">{this.props.name}</p>
+                </a>
             </div>
         );
     }

@@ -68,7 +68,7 @@ class Resume extends React.Component {
                                   <i className="fa fa-github" aria-hidden="true"></i>
                                 </a>
                                 <a href="/#" onClick={this.redirectKaggle}>
-                                  <span style={{color: 'white'}}>k</span>
+                                  <span style={{color: 'white', fontSize: '30px'}}>k</span>
                                 </a>
                                 </div>
                             </div>
