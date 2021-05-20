@@ -47,6 +47,11 @@ section {
     background: #10121b;
 }
 
+#p5 {
+    left: 300%;
+    background: #10121b;
+}
+
 ul {
     position: fixed;
     z-index: 1;
@@ -65,6 +70,10 @@ ul {
 }
 
 #contact:target .page#p4 {
+    transform: translateX(-290%);
+}
+
+#articles:target .page#p5 {
     transform: translateX(-290%);
 }
 
@@ -197,6 +206,11 @@ a {
     transition-delay: 1s;
 }
 
+#articles:target .page#p5 .icon {
+    transform: translateX(0) !important;
+    transition-delay: 1s;
+}
+
 .credit {
     position: absolute;
     bottom: 0;
@@ -285,7 +299,7 @@ hr {
     opacity: 0.8;
 }
 
-.p1 .p2 .p3 .p4 {
+.p1 .p2 .p3 .p4 .p5 {
     padding-right: 150px;
 }
 
