@@ -1,5 +1,6 @@
 import React from 'react';
 import profilePic from './static/profile-pic.jpeg';
+import './css/AboutMe.css';
 
 class AboutMe extends React.Component {
     render() {
@@ -9,10 +10,10 @@ class AboutMe extends React.Component {
                 <hr className="hr-dark"/><hr className="hr-light"/><br />
                 <div>
                     <div className="row">
-                        <div className="col-3">
+                        <div className="col-md-3">
                             <img className="profile-image" src={profilePic} alt="profile"/>
                         </div>
-                        <div className="col-9" style={{textAlign: 'left'}}>
+                        <div className="col-md-9" style={{textAlign: 'left'}}>
                             <h1>I am <span className="name">Prithviraj Maurya</span></h1>
                             <p className="desc">I am a Full Stack Developer at Wissen Technology,
                             I also work on AI and ML projects<br/> and I am an active Kaggler.

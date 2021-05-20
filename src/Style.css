@@ -269,10 +269,6 @@ i.fa {
     margin-left: 50px;
 }
 
-.title {
-    text-align: left;
-}
-
 hr {
     border-width: 5px;
     margin: 0px;
@@ -306,3 +302,14 @@ hr {
 .contact {
     width: 70%;
 }
+
+
+
+/* Mobile CSS */
+@media only screen and (max-width: 900px) {
+    ul {
+        right: auto;
+        width: 2%;
+        margin: 0;
+    }
+  }

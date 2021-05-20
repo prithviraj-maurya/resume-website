@@ -11,7 +11,7 @@ class Portfolios extends React.Component {
                 <hr className="hr-dark"/><hr className="hr-light"/><br/>
                 <div className="row">
                     { projects.map(project => {
-                        return <div className="col-3">
+                        return <div className="col-md-3">
                                     <Cards name={project.name} description={project.description} 
                                         url={project.url} image={project.image} key={project.name}/>
                                 </div>;

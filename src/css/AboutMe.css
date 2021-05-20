@@ -1,0 +1,13 @@
+/* Mobile CSS */
+@media only screen and (max-width: 900px) {
+    .container {
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+    .row {
+        padding-right: 50px;
+    }
+    #p2 {
+        height: auto;
+    }
+}

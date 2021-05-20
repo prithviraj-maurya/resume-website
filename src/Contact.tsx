@@ -27,7 +27,7 @@ class Contact extends React.Component {
                 <hr className="hr-dark"/><hr className="hr-light"/><br/>
                 <div className="row">
                     <Form></Form>
-                    <div className="col-6">
+                    <div className="col-md-6">
                         <div className="contact-info">
                             <span className="contact-info-icon">
                                 <i className="fa fa-envelope"></i>

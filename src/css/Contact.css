@@ -25,3 +25,16 @@
 i.fa {
     font-size: 30px;
 }
+
+/* Mobile CSS */
+@media only screen and (max-width: 900px) {
+    .contact {
+        width: 100%;
+    }
+    #p4 {
+        height: auto;
+    }
+    .contact-info {
+        padding: 0px;
+    }
+}
