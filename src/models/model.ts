@@ -36,4 +36,12 @@ export const projects: project[] = [
         url :'https://www.notion.so/Airbnb-Amenities-Detection-2020-5079c38d2d2b4ffc94d617272914cc01',
         image: '/images/airbnb.png'
     },
+    {
+        name: 'Project Flu Vaccine EDA',
+        description: `An EDA project on h1n1 flu to answer various questions such as how did the flu transmit, 
+        behavioural patterns of people, how many of them sanitaized their hands, how many people kept
+        close contact with the infected person etc. Plotted various graphs and charts to depict the answers`,
+        url: 'https://drive.google.com/file/d/1aUxUjBXbI2V65o9IMe01v0qSwYmganeG/view',
+        image: '/images/flu.jpg'
+    }
 ];
