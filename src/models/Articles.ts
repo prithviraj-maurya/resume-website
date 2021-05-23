@@ -26,5 +26,12 @@ export const articles: Article[] = [
         Pytorch framework and modules. Compared the results of these two frameworks and compared the ease
         of writing code, learning curve for both frameworks and utility functions.`,
         link: 'https://www.notion.so/DLwPT-Deep-Learning-with-Pytorch-a1068de76f31404eb8198f864bd36ef4'
+    },
+    {
+        title: 'World University Ranking EDA',
+        summary: `EDA on the Times data for world university rankings. Answering questions like which are
+        the top universities in the world, which university has highest international student percentage,
+        which has the best teaching faculty and citations.`,
+        link: 'https://prithviraj-maurya.medium.com/world-university-ranking-eda-9bc8ec8b9118'
     }
 ]
