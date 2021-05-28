@@ -303,7 +303,9 @@ hr {
     width: 70%;
 }
 
-
+#p3, #p5 {
+    overflow-y: auto;
+}
 
 /* Mobile CSS */
 @media only screen and (max-width: 900px) {

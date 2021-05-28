@@ -6,3 +6,9 @@
 .card-body {
     height: 400px;
 }
+
+.card-text {
+    max-height: 250px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

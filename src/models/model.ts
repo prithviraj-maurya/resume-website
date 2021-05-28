@@ -43,5 +43,14 @@ export const projects: project[] = [
         close contact with the infected person etc. Plotted various graphs and charts to depict the answers`,
         url: 'https://drive.google.com/file/d/1aUxUjBXbI2V65o9IMe01v0qSwYmganeG/view',
         image: '/images/flu.jpg'
+    },
+    {
+        name: 'Bike Sharing Demand Prediction',
+        description: `Project for accurately prediction the demand for rented bikes on a given day, based
+        on various parameters such as day of week, season, weather, holidays and based on previous data.
+        Created a complete pipeline from EDA to data cleaning, preprocessing, modelling, hyperparameter optimization,
+        model tuning and visualizing results.`,
+        url: 'https://www.notion.so/Bike-Sharing-Demand-4841768395dd4dec84282872b8d930d0',
+        image: '/images/bikes.jpeg'
     }
 ];

@@ -33,5 +33,13 @@ export const articles: Article[] = [
         the top universities in the world, which university has highest international student percentage,
         which has the best teaching faculty and citations.`,
         link: 'https://prithviraj-maurya.medium.com/world-university-ranking-eda-9bc8ec8b9118'
+    },
+    {
+        title: 'Bike Sharing Demand Prediction',
+        summary: `Project for accurately prediction the demand for rented bikes on a given day, based
+        on various parameters such as day of week, season, weather, holidays and based on previous data.
+        Created a complete pipeline from EDA to data cleaning, preprocessing, modelling, hyperparameter optimization,
+        model tuning and visualizing results.`,
+        link: 'https://www.notion.so/Bike-Sharing-Demand-4841768395dd4dec84282872b8d930d0'
     }
 ]
