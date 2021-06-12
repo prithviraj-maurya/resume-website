@@ -64,7 +64,7 @@ class Resume extends React.Component {
                                 <img className="profile-img" src={profile} alt="Profile"/>
                               </div>
                               <div className="title">Hi, I am <span className="name">Prithviraj Maurya</span></div>
-                              <span className="hint">Full Stack Developer, Active Kaggler, AI ML Enthusiast</span>
+                              <span className="hint">Software Engineer, Active Kaggler, AI ML Enthusiast</span>
                               <div className="social">
                                 <a href="/#" onClick={this.redirectLinkedIn}>
                                   <i className="fa fa-linkedin" aria-hidden="true"></i>
